@@ -1,3 +1,6 @@
+// This code is provided "as is", without any warranty.
+// Use at your own risk.
+
 using Avalonia;
 using Avalonia.Input;
 using Avalonia.Input.GestureRecognizers;
